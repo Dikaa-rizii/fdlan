@@ -12,8 +12,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': '0e92565522',
 }
 // Other
-global.owner = ['6281523940672','3547877877']
-global.premium = ['6281523940672']
+global.owner = ['62895389040080','3547877877']
+global.premium = ['62895389040080']
 global.ownername = 'Fax Faraxxx'
 global.packname = 'Fax!! Faraxx??' //Wm sticker nya
 global.author = 'WhatsApp 👿'
